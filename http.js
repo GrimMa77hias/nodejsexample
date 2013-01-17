@@ -1,3 +1,4 @@
+//Example taken from http://net.tutsplus.com/tutorials/javascript-ajax/node-js-for-beginners/
 // Include http module.
 var http = require("http");
 // Create the server. Function passed as parameter is called on every request made.

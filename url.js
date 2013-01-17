@@ -1,3 +1,4 @@
+// Example taken from http://net.tutsplus.com/tutorials/javascript-ajax/node-js-for-beginners/
 // Include http module,
 var http = require("http"),
 // And url module, which is very helpful in parsing request parameters.
